@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+This repository is transferred from [gdm-SynseneHealth](https://github.com/draysontechnologies/shtest.github.io) to Huma organisation as part of change in asset ownership 
+
 ## Android Engineer - Tech Test
 
 ### Introduction
